@@ -1,0 +1,79 @@
+.header {
+
+    .header-button {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 8px;
+        gap: 8px;
+        position: absolute;
+        width: 102px;
+        height: 36px;
+        left: 1478px;
+        top: 42px;
+        border: 0.5px solid #FFFFFF;
+        border-radius: 5px;
+    }
+
+    .header-button_text {
+        width: 58;
+        height: 15;
+        opacity: 1;
+    }
+
+    .header-button_img {
+        width: 16.66666603088379;
+        height: 13.333333015441895;
+        opacity: 1;
+        top: 3.33px;
+        left: 1.67px;
+
+    }
+
+    .header-item_1 {
+        position: absolute;
+        width: 79px;
+        height: 15px;
+        left: 667px;
+        top: 52px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 91%;
+        color: #FFFFFF;
+    }
+
+    .header-item_2 {
+
+        position: absolute;
+        width: 62px;
+        height: 15px;
+        left: 933px;
+        top: 52px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 91%;
+        color: #FFFFFF;
+
+
+    }
+
+    .header-item_3 {
+        position: absolute;
+        width: 88px;
+        height: 15px;
+        left: 1166px;
+        top: 52px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 91%;
+        color: #FFFFFF;
+    }
+}
